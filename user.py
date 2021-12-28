@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @trojanzhex
+# @Professor_Here_Money_heist
 
 
 from pyrogram import (
