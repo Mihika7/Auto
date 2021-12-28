@@ -38,11 +38,6 @@
 * Once deployed and bot is started, send a message to channel (must do step)
 * Bot will work now :)
 
-
-## You can check the video tutorial on how to deploy
-
-[Click here to see tutorial video](https://youtu.be/KQVYQAOsFYY)
-
 Thanks to [all_web_series_mihika](https://telegram.dog/all_web_series_mihika) and [Erich Daniken](https://telegram.dog/all_web_series_mihika) for supporting us
 
 ## Any bugs or errors or suggestions, report at [Professor](https://telegram.dog/Professor_Here_Money_heist)
