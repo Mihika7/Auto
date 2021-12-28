@@ -51,7 +51,7 @@ Thanks to [all_web_series_mihika](https://telegram.dog/all_web_series_mihika) an
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mihika7/Auto)
+[![Deploy](https://img.shields.io/badge/%E2%86%91_Deploy_to-Heroku-7056bf.svg)](https://heroku.com/deploy?template=https://github.com/Mihika7/Auto)
 
 ### Deploy in your vps
 ```sh
